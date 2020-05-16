@@ -133,9 +133,16 @@ a:hover {
 }
 
 .avatar {
-  width: 100px;
-  height: 100px;
+  float: right;
+  margin-left: 1.5em;
+
 }
+
+.avatar img {
+  height: 300px;
+  width: 300px;
+}
+
 .sobre p {
   color: white;
   margin-bottom: 1.4em;
